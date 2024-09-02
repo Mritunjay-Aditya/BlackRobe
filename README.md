@@ -113,4 +113,4 @@ instance/*
 
 ## Acknowledgments
 
-Made with 💻 and ☕ by [Your Name](https://github.com/Mritunjay-Aditya).
+Made with 💻 and ☕ by [Aditya Mritunjay](https://github.com/Mritunjay-Aditya).
